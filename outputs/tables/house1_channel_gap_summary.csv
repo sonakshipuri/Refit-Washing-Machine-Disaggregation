@@ -1,0 +1,11 @@
+channel,name,empty_minutes,filled_minutes,long_gap_minutes,long_gap_pct,zero_pct_of_present
+Aggregate,Aggregate,119681,888,118793,12.9,0.0
+Appliance1,Fridge,123730,2789,120941,13.1,75.4
+Appliance2,Freezer(1),123473,2371,121102,13.2,63.9
+Appliance3,Freezer(2),121143,930,120213,13.1,58.3
+Appliance4,Washer Dryer,132757,3212,129545,14.1,99.6
+Appliance5,Washing Machine,129681,3570,126111,13.7,97.6
+Appliance6,Dishwasher,120560,839,119721,13.0,99.0
+Appliance7,Computer,119674,881,118793,12.9,88.5
+Appliance8,Television Site,121879,1864,120015,13.0,81.3
+Appliance9,Electric Heater,338427,1061,337366,36.7,0.0

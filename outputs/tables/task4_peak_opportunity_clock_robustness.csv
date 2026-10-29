@@ -1,0 +1,4 @@
+version,houses,median_pct_washes_in_peak,median_pct_energy_in_peak,median_peak_kwh_per_year,top_quarter_peak_kwh_per_year
+"all year, stamps read as UK local",19,10.0,9.254583145764974,12.313921064315235,27.815500586702694
+"all year, stamps read as UTC -> UK",19,11.851851851851853,9.788574720053132,12.786704284512778,29.702308798781445
+Nov-Mar only (clock-proof),19,10.344827586206897,10.564271876341854,9.91414162711643,39.37291759733209

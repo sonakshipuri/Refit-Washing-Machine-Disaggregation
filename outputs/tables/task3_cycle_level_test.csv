@@ -1,0 +1,4 @@
+model,true_cycles,found,recall,predicted_cycles,correct,precision,median_energy_err_pct_found,median_abs_energy_err_pct_found
+always off,908,0,0.0,0,0,,,
+hour-of-week profile,908,0,0.0,0,0,,,
+gradient boosting,908,503,0.5539647577092511,2412,852,0.35323383084577115,-53.16938358951098,53.81366329167996
